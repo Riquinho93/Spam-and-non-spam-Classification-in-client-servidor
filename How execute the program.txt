@@ -1,0 +1,14 @@
+---------- TOOLS VERSION---------------------
+Python:3.7.1
+Jupyter Notebook: 4.4.0
+Anaconda:1.7.2
+Scikit-learn:0.20.1
+PyCharm: 2018.3.5 (Professional Edition)
+------- HOW EXECUTE THE PROGRAM ------------
+1- You can run the classification model (spamClassifier.ipynb) by Google Colab online. 
+   Available in: <https://colab.research.google.com> or install Python and Anaconda, and runs on Jupyter Notebook.
+2- And you can run the client-server by installing Python and Anaconda, and run on Anaconda Prompt. Or you can install 
+   Pycharm and add the pandas and sklearn libraries and run the applications.
+3- If you are unable to do the installation or have other difficulties with the code execution, I am available to execute
+   the code on my computer and you can view it through a Zoom connection.
+
