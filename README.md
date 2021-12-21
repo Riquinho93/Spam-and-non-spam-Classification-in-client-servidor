@@ -1,6 +1,6 @@
 # Email Spam Filtering in client-servidor
 
-![video](https://github.com/Riquinho93/Spam-and-non-spam-Classification-in-client-servidor/blob/main/assets/WhatsApp%20Video%202021-12-21%20at%2017.58.38.mp4)
+[![video](https://github.com/Riquinho93/Spam-and-non-spam-Classification-in-client-servidor/blob/main/assets/Classification%20of%20spam%20or%20not-spam%20on%20a%20client-server.png)](https://github.com/Riquinho93/Spam-and-non-spam-Classification-in-client-servidor/blob/main/assets/Spam%20video%20result.mp4)
 
 ## Introduction
 
