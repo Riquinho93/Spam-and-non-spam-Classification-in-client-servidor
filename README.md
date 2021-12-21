@@ -1,5 +1,7 @@
 # Email Spam Filtering in client-servidor
 
+![video](https://github.com/Riquinho93/Spam-and-non-spam-Classification-in-client-servidor/blob/main/assets/WhatsApp%20Video%202021-12-21%20at%2017.58.38.mp4)
+
 ## Introduction
 
 It is difficult to find a user who has never received an unwanted or unpleasant message from an unknown or little-known recipient. Spam is something that is present in our online lives and that seems to grow more each day. The purpose of these spams is to sell some products or services; however, these are the best cases.
